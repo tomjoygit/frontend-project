@@ -10,7 +10,7 @@
 ## Running the container
 ` $ docker run -d -p 80:80 $DOCKER_USER_ID/sentiment-analysis-frontend `
 
-## Pushing the container
+## Pushing the container######
 ` $ docker push $DOCKER_USER_ID/sentiment-analysis-frontend `
 
 #####
