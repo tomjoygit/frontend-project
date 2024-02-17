@@ -27,4 +27,4 @@ steps:
   displayName: 'Run container image'
 - script: |
     docker ps
-  displayName: 'showing running containers'
+  displayName: 'showing running containers in the system'
