@@ -25,3 +25,6 @@ steps:
 - script: |
     docker run tomjoypala/nginxfrontend
   displayName: 'Run container image'
+- script: |
+    docker ps
+  displayName: 'showing running containers'
